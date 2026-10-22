@@ -13,7 +13,7 @@ Team project beginning with Task 1: dataset understanding, preparation, and Chap
 ### Task 1 work
 
 - `M1_data_foundation.ipynb` - Member 1's Colab-ready notebook foundation, including data checks, minimal preprocessing, the rejected-seed table, and shared event columns.
-- `M1_slides_1_and_3.md` - draft content for the dataset and preprocessing slides.
+- `TEAM_WORKFLOW_AND_NOTEBOOK_STUDY_GUIDE.md` - member responsibilities, GitHub branch workflow, and a walkthrough of the Member 1 notebook.
 - `Task_01.pdf` - assignment brief.
 - `Task1_Team_Guide.pdf` - team responsibilities and workflow.
 - `smart_buildings_200_report (1) (1).pdf` - dataset generation and validation report.
